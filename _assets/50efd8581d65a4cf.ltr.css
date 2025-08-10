@@ -1,0 +1,29 @@
+.gcYy_A {
+  all: initial;
+  display: block;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+._kI3Pw {
+  display: contents;
+}
+@supports not (display: contents) {
+  ._kI3Pw {
+    height: inherit;
+  }
+}
+.BHOPhg {
+  all: initial;
+  display: block;
+}
+.sR0SUA::placeholder {
+  color: var(--srRiKA);
+}
+.oUJNhQ {
+  all: initial;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+/*# sourceMappingURL=sourcemaps/50efd8581d65a4cf.ltr.css.map*/
